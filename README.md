@@ -1,2 +1,2 @@
-# Promt-Agente
-Este es el Promt del video 
+# Recursos
+Brayan Reina experto en IA
